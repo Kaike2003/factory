@@ -11,3 +11,5 @@ export class GerenciarSistemaDePagamento {
     this.sistemaDePagamento.confirmarPagamento();
   }
 }
+
+
